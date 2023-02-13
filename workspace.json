@@ -42,7 +42,9 @@
     "ID": "le2nfa6uwija1911ev",
     "Name": "Home",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "le2nigaq87hmlrl3wya"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -177,5 +179,15 @@
     },
     "Attrs": {},
     "Parent": "le2nh9wpgbxunjebn0u"
+  },
+  {
+    "ID": "le2nigaq87hmlrl3wya",
+    "Name": "AWS Security",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le2nfa6uwija1911ev"
   }
 ]
